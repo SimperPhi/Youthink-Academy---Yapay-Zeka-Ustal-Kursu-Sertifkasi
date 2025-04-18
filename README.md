@@ -1,4 +1,4 @@
-# Yapay Zeka Ustalığı Kursu – YouThink
+# Yapay Zeka Ustalığı Kursu – YouThink Academy
 
 Bu depoda, Katılım sağlayarak elde ettiğim YouThink Academy tarafından verilen **Yapay Zeka Ustalığı Kursu** yer almaktadır.
 
